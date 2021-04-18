@@ -4,4 +4,4 @@ telegram - @Xacker_ducker
 
 <h2>Ход выполнения лабораторной работы:</h2>
 
-![screen01](./screens/screen08)
+![screen01](./screens/screen08.png)
